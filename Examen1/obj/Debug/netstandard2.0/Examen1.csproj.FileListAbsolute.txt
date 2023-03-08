@@ -1,0 +1,36 @@
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.deps.json
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.dll
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.pdb
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Views\PageCargInfo.xaml.g.cs
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Views\PagePrincipal.xaml.g.cs
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.dll
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\refint\Examen1.dll
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.pdb
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\ref\Examen1.dll
+C:\Users\denis\OneDrive\Escritorio\Programacion RAD2023\Examen1\Examen1\obj\Debug\netstandard2.0\Views\PageNumGuardados.xaml.g.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.deps.json
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.dll
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\bin\Debug\netstandard2.0\Examen1.pdb
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.csproj.AssemblyReference.cache
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Views\Pagedatosguardados.xaml.g.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Views\Pageinformacion.xaml.g.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Views\PagePrincipal.xaml.g.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.AssemblyInfoInputs.cache
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.AssemblyInfo.cs
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.dll
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\refint\Examen1.dll
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\Examen1.pdb
+C:\Users\DELL\Videos\Captures\Examen1\Examen1\obj\Debug\netstandard2.0\ref\Examen1.dll
